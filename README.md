@@ -26,7 +26,7 @@ This project analyzes an automobile sales dataset using SQL and Power BI to unco
 - EDA & ADVANCED SQL.sql
 - auto sales.pbix
 - Sales dashboard.PNG
-
+sales-dashboard.png
 ## Dashboard Insights
 - Interactive filters by Year, Month, and Country
 - KPI cards for Sales, Orders, Average Sales, and Customers
