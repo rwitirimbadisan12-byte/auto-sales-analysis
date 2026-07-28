@@ -26,7 +26,13 @@ This project analyzes an automobile sales dataset using SQL and Power BI to unco
 - EDA & ADVANCED SQL.sql
 - auto sales.pbix
 - Sales dashboard.PNG
-- 
+- ## Power BI Dashboard
+
+This interactive dashboard provides insights into sales performance, customer behavior, product performance, and regional sales trends.
+
+### Dashboard Preview
+
+![Auto Sales Dashboard](sales-dashboard.png)
 ## Dashboard Insights
 - Interactive filters by Year, Month, and Country
 - KPI cards for Sales, Orders, Average Sales, and Customers
